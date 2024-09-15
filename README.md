@@ -1,1 +1,1 @@
-# The web-build for an internship test for the Dutch Games Studio!
+# The web-build for an internship test for The Dutch Game Studio!
