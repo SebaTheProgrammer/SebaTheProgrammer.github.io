@@ -24647,7 +24647,7 @@ s===$&&A.c()
 if(s.a_>=5000){l.B=!0
 l.p2=!1
 l.nW()
-l.gk9().p(0,"WinButton")}if(l.cO>10&&l.aV){l.aV=!1
+l.gk9().p(0,"WinButton")}if(l.cO>6&&l.aV){l.aV=!1
 $.Sc().n3("Level.mp3")}},
 rB(a,b){var s=this
 if(s.B)return B.bo
